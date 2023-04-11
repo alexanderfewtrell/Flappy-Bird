@@ -1,2 +1,2 @@
 # Flappy-Bird
-An initial project to learn Unity.
+An initial project to learn Unity!
